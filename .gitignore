@@ -1,0 +1,14 @@
+# Devvit
+.devvit/
+dist/
+build/
+
+# Node
+node_modules/
+
+# Env / Secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
