@@ -1,0 +1,9 @@
+{
+  "name": "highlight-feeder",
+    "blocks": {
+      "entry": "src/main.ts"
+  },
+  "marketingAssets": {
+    "icon": "assets/highlights-icon.png"
+  }
+}
