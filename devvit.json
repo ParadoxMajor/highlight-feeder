@@ -1,7 +1,8 @@
 {
   "name": "highlight-feeder",
     "blocks": {
-      "entry": "src/main.ts"
+      "entry": "src/main.ts",
+      "triggers": ["onModAction"]
   },
   "marketingAssets": {
     "icon": "assets/highlights-icon.png"
